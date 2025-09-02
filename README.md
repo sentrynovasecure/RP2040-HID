@@ -39,7 +39,8 @@ Ce projet est un **side project éducatif** : comprendre le concept BadUSB, exp�
 - Depuis le bundle des layouts clavier, ajouter :  
   - **keyboard_layout_win_fr.mpy** et **keycode_win_fr.mpy** (si l’OS cible est en FR/AZERTY)  
 
-Arborescence attendue :  
+Arborescence attendue :
+```
 CIRCUITPY/
 │
 ├── code.py
@@ -49,7 +50,7 @@ CIRCUITPY/
 ├── adafruit_ducky.mpy
 ├── keyboard_layout_win_fr.mpy
 └── keycode_win_fr.mpy
-
+```
 ---
 
 ## Step 4 – Add Your Scripts
@@ -86,7 +87,7 @@ Si vous voulez que la clé se comporte comme un vrai Rubber Ducky (uniquement HI
 
 ---
 
-## ❗ Problem ? Reset!
+## ❗ Problem ? Reset !
 
 Si vous devez rééditer vos fichiers après avoir désactivé le stockage :
 
