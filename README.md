@@ -69,7 +69,7 @@ Entraînez-vous avec les payloads que vous voulez (ouvrir Notepad, taper un text
 ---
 
 ## Step 6 – Hide CIRCUITPY (Optional)
-Par défaut, Windows ouvre l’explorateur sur le disque **CIRCUITPY** à chaque branchement (test).  
+Par défaut, Windows ouvre l’explorateur de fichier sur le disque **CIRCUITPY** à chaque branchement (test).  
 Si vous voulez que la clé se comporte comme un vrai Rubber Ducky (uniquement HID, pas de stockage visible) :  
 
 1. Créez un fichier `boot.py` à la racine avec :  
@@ -83,7 +83,7 @@ Si vous voulez que la clé se comporte comme un vrai Rubber Ducky (uniquement HI
 ✅ Plus d’explorateur : la clé est invisible comme périphérique de stockage.
 ✅ Elle agit uniquement comme **clavier HID**.
 
-⚠️ Attention : vous ne pourrez **plus modifier vos fichiers** (`code.py`, `payload.txt`).
+⚠️ ATTENTION !!! Vous ne pourrez **plus modifier vos fichiers**.
 
 ---
 
